@@ -1,0 +1,3 @@
+[submodule "teaching-material"]
+	path = teaching-material
+	url = https://github.com/ferrous-systems/teaching-material.git
